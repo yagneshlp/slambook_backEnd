@@ -1,0 +1,1 @@
+This page uploads a Selfie into the server. so no SQL 
